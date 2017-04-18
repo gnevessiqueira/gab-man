@@ -47,7 +47,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\scripts\CameraFollow.cs" />
+     <Compile Include="Assets\scripts\FollowMouse.cs" />
      <Compile Include="Assets\scripts\GhostMove.cs" />
+     <Compile Include="Assets\scripts\HideMouse.cs" />
      <Compile Include="Assets\scripts\OpenPauseMenu.cs" />
      <Compile Include="Assets\scripts\pacManMove.cs" />
  <Reference Include="UnityEngine.UI">

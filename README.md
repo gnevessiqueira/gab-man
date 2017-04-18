@@ -1,2 +1,2 @@
 # gab-man
-description like pac man but it is purple
+like pac man but it is purple

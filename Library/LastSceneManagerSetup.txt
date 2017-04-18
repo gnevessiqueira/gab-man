@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/senas/game.unity
+- path: Assets/senes/start-menu.unity
   isLoaded: 1
   isActive: 1
